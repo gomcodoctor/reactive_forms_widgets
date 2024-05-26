@@ -203,6 +203,7 @@ class ReactiveTypeAhead<T, V> extends ReactiveFormField<T, V> {
               minCharsForSuggestions: minCharsForSuggestions,
               autoFlipMinHeight: autoFlipMinHeight,
               onSuggestionsBoxToggle: onSuggestionsBoxToggle,
+              ignoreAccessibleNavigation: true
             );
           },
         );
