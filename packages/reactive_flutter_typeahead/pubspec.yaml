@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_typeahead: ^4.6.2
+  flutter_typeahead: ^5.2.0
   reactive_forms: ">=16.0.0 <18.0.0"
 
 dev_dependencies:
